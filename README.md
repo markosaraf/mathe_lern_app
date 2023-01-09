@@ -29,9 +29,9 @@ marko@mathe_lern_app1 %
 - Create new empty (template) Flutter project
 - Replace pubspec.yaml file with pubspec.yaml from this github
 - Replace content of lib directory (includes main.dart and more) with the content of lib directory from this github
-- Install flutter packegas specified in pubspec.yaml by running in terminal (from main project directory):
+- Install flutter packegas specified in pubspec.yaml by running in terminal (from main project directory):  
   flutter pub get
-- Press the build button in Android Studio (or your GUI dev environment), or (if not using GUI environment) run the build command from terminal as per https://docs.flutter.dev and https://docs.flutter.dev/reference/flutter-cli
+- Press the build button in Android Studio (or your GUI dev environment), or (if not using GUI environment) run the build command from terminal as per https://docs.flutter.dev and https://docs.flutter.dev/reference/flutter-cli  
   flutter run lib/main.dart
 
 
