@@ -34,6 +34,7 @@ marko@mathe_lern_app1 %
 - Press the build button in Android Studio (or your GUI dev environment), or (if not using GUI environment) run the build command from terminal as per https://docs.flutter.dev and https://docs.flutter.dev/reference/flutter-cli  
   flutter run lib/main.dart
 
-
+## Screenshots  
+![Alt text](screenshots/Screenshots_2023-01-09.png?raw=true "Mathe Lernapp Screenshots")
 
 
